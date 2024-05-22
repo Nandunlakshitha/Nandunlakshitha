@@ -10,5 +10,3 @@
 Nandunlakshitha/Nandunlakshitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Snake animation](https://github.com/Nandunlakshitha /Nandunlakshitha/blob/output/github-contribution-grid-snake.svg)
-<p><h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
